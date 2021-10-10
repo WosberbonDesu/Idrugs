@@ -11,7 +11,8 @@ https://ibb.co/M10RpfH
 https://ibb.co/qFCtN6x
 https://ibb.co/2q5P84K
 https://ibb.co/kmHZW2D
-drug store application that works completely with the backend
+drug store application that works completely with the backend application backend is made with firebase
+
 
 
 
