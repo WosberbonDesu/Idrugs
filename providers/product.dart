@@ -29,7 +29,7 @@ class Product with ChangeNotifier{
     final oldStatus = isFavorite;
     isFavorite = !isFavorite!;
     notifyListeners();
-    final url = Uri.https('shopapp-95fbb-default-rtdb.europe-west1.firebasedatabase.app',
+    final url = Uri.https('YOURURİ',
         '/userFavorites/$userId/$id.json', {'auth': '$token'});
     try{
       final response = await http.put(
